@@ -97,7 +97,7 @@ echo "VITE_ANTHROPIC_API_KEY=sk-ant-your-key-here" > .env
 npm run dev
 ```
 
-Then open **http://localhost:5173** in your browser.
+Then open **http://localhost:5173** in your browser
 
 ---
 
