@@ -1,6 +1,6 @@
 # TechWriter AI ✦
 
-> A production-ready AI-powered technical writing platform for developers, students, and content creators. Generate, edit, analyze, and export professional technical articles for Medium, DEV Community, Tutorials Dojo, personal blogs, and documentation sites.
+> A production-ready AI-powered technical writing platform for developers, students, and content creators. Generate, edit, analyze, and export professional technical articles for Medium, DEV Community, Tutorials Dojo, personal blogs, and documentation sites
 
 ---
 
