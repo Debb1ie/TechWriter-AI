@@ -160,7 +160,7 @@ npm run dev
 # http://localhost:5173
 ```
 
-The dev server supports hot module replacement — edits to `App.jsx` reflect instantly in the browser without a full reload.
+The dev server supports hot module replacement — edits to `App.jsx` reflect instantly in the browser without a full reload
 
 ---
 
