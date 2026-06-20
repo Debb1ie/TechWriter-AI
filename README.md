@@ -80,7 +80,7 @@ The fastest way to get TechWriter AI running locally:
 
 ```bash
 # 1. Create a new Vite + React project
-npm create vite@latest techwriter-ai -- --template react
+npm create vite@latest techwriter-ai -- --template react.
 cd techwriter-ai
 
 # 2. Install dependencies
